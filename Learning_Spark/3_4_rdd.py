@@ -1,5 +1,7 @@
-# page 44
+#! /usr/bin/env python
+# -*- coding: utf-8 -*-
 
+# page 44
 from pyspark import SparkConf
 from pyspark.context import SparkContext
 from pyspark.sql import SQLContext

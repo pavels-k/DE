@@ -1,5 +1,7 @@
-# page 44
+#! /usr/bin/env python
+# -*- coding: utf-8 -*-
 
+# page 44
 # PYSPARK_PYTHON = ...\python.exe
 from pyspark import SparkConf
 from pyspark.context import SparkContext
