@@ -20,3 +20,6 @@ table_union.show()
 
 for line in table_union.take(2):
     print(line)
+
+print(type(table_union.take(2)))
+print(type(table_union.collect()))
