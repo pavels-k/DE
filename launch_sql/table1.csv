@@ -1,4 +1,9 @@
-A_col;B_col
-1;4
-2;5
-3;6
+A_col;B_col;C_col
+1;4;Men
+2;5;Women
+2;6;Men
+3;5;Women
+2;3;Men
+4;4;Women
+4;;Men
+4;2;Women
