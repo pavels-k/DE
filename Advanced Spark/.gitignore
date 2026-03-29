@@ -1,0 +1,18 @@
+# Spark / Derby
+derby.log
+metastore_db/
+spark-warehouse/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
